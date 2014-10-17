@@ -1,4 +1,4 @@
-SemanticYellowPages
+Semantic Yellow Pages - A Semantics based classifieds system
 ===================
 
 A next generation "yellow pages" (classifieds) system designed using Web 3.0 technology stack
